@@ -18,3 +18,5 @@ We need an XR work environment where users can
 - develop an application they want, and use it together with other applications.
 
 ZIGEN makes these things happen!
+
+[![C# Discord](https://badgen.net/discord/members/PPJEFrdE9f?scale=1.2&icon=discord&label=Join%20our%20discord%20server%21%21%21)](https://discord.gg/PPJEFrdE9f)

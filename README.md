@@ -12,3 +12,5 @@ when creating new issues or pull requests.
 
 [Contribution](CONTRIBUTING.md) - Automatic referencing of Contributing when
 creating new issues or pull requests.
+
+[Pull request template](pull_request_template.md) - The organization's default pull request template.

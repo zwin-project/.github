@@ -1,6 +1,6 @@
-# Default community health files for the ZIGEN organization
+# Default community health files for the Zwin organization
 
-This repository stores default community health files for the ZIGEN
+This repository stores default community health files for the Zwin
 organization.
 
 [more info](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)

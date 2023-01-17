@@ -1,4 +1,4 @@
-## ZIGEN is a windowing system for XR
+## Zwin is a windowing system for XR
 
 In the modern desktop environment, windowing systems such as X11 or Wayland
 provide a multitasking environment where multi applications from different
@@ -17,6 +17,6 @@ We need an XR work environment where users can
   - Data transferring such as "drag and drop" between applications is supported.
 - develop an application they want, and use it together with other applications.
 
-ZIGEN makes these things happen!
+Zwin makes these things happen!
 
 [![C# Discord](https://badgen.net/discord/members/PPJEFrdE9f?scale=1.2&icon=discord&label=Join%20our%20discord%20server%21%21%21)](https://discord.gg/PPJEFrdE9f)

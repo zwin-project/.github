@@ -5,7 +5,7 @@ Please provide a link to the relevant issue if exists so that reviewers can
 quickly understand the context.
 
 example:
-See zigen-project/.github#8
+See zwin-project/.github#8
 -->
 
 <!--

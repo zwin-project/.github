@@ -1,10 +1,10 @@
 ## Context
 
 <!--
-Please provide a link to the relevant issue if exists so that reviewers can
-quickly understand the context.
+Please provide a link to the relevant issue, if available,
+so that reviewers can quickly understand the context.
 
-example:
+Example:
 See zwin-project/.github#8
 -->
 
@@ -16,14 +16,14 @@ pull request links, etc.).
 ## Summary
 
 <!--
-Please write what you did here. If you have made changes to the appearance, it
-would be helpful to include images as well.
+Please describe what you did here. If you have made changes to the appearance,
+it would be helpful to include images as well.
 -->
 
-## How to check behavior
+## How to check the behavior
 
 <!--
-If you added a new feature, please write a way for other developers to easily
-check the behavior you have changed or added so that they can catch up with the
-changes.
+If you have added a new feature, please write a way for other developers
+to easily check the behavior you have changed or added, so that they can
+keep up with the changes.
 -->

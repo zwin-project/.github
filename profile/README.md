@@ -19,4 +19,4 @@ We need an XR work environment where users can
 
 Zwin makes these things happen!
 
-[![C# Discord](https://badgen.net/discord/members/PPJEFrdE9f?scale=1.2&icon=discord&label=Join%20our%20discord%20server%21%21%21)](https://discord.gg/PPJEFrdE9f)
+[![C# Discord](https://badgen.net/discord/members/PPJEFrdE9f?scale=1.2&icon=discord&label=Join%20our%20discord%20server%21%21%21)](https://discord.gg/necXjRNhTs)
